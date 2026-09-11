@@ -11,22 +11,22 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
 </a> -->
 
-<a href="https://www.linkedin.com/in/germeson-martins/" target="_blank">
+<a href="https://www.linkedin.com/in/germeson-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:contatogmartins@outlook.com">
+<a href="mailto:germeson-dev@outlook.com">
   <img src="./img/logo-outlook.png" width="74" alt="Email">
 </a>
 
-<a href="https://instagram.com/gcodebeat.dev" target="_blank">
+<a href="https://instagram.com/germeson_dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-stats-extended.vercel.app/api?username=germeson-martins&show_icons=true&theme=dracula" width="430" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=germeson-dev&show_icons=true&theme=dracula" width="430" alt="GitHub Stats">
 </div>
 
 ## Technologies Used
