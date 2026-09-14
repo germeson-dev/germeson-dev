@@ -43,3 +43,6 @@
     <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
 </div>
 
+<div align: center>
+    <img src="https://raw.githubusercontent.com//germeson-dev/germeson-dev/output/snake.svg" alt="Snake animation" />
+</div>
