@@ -8,8 +8,8 @@
 ## 📫 Contact me
 [![Portfolio](https://img.shields.io/website?label=germeson-dev.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://germeson-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germeson-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/germeson-dev)
-<a href="mailto:contatogmartins@outlook.com"><img src="./img/logo-outlook.png" width="74" alt="Email"></a>
+<a href="mailto:germeson-dev@outlook.com"><img src="./img/logo-outlook.png" width="74" alt="Email"></a>
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/germeson-dev) -->
 
 ## 📊 GitHub Stats
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FveGhnZXg4emVqbWlxbTJ5Zms2M2wwZHljY2NxazB3OHYyc3F5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Snake animation" height="298" />
