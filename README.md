@@ -5,6 +5,14 @@
 ❤️ I turn ideas into reality, one line of code at a time. <br>
 📍 São Paulo/Brazil. <br>
 
+💬 Hello! I’m Germeson. How are you?
+
+Feel free to check out my projects and explore my portfolio! I’m always open to feedback, suggestions, and new learning opportunities.
+
+Below, you’ll find my portfolio and my contact information.
+
+Thanks for visiting! 🧑🏻‍💻
+
 ## 📫 Contact me
 [![Portfolio](https://img.shields.io/website?label=germeson-dev.vercel.app&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://germeson-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germeson-dev/)
